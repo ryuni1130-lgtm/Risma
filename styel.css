@@ -9,12 +9,12 @@ width: 300px
 margin:50px auto; /" 50Px jarak atas/bawah, auto menengahkan kiri/kanan "/
 padding: 20px;
 background-color: while;
-border-radius: 15px; /" membuat sudut menjadi melengkung "/
+border-radius: 15px; /" Membuat sudut menjadi melengkung "/
 box-shadow: 0 4px 8px rgba(0,0,0,0,.1); /" Efek bayangan "/
 text-align: center;
 )
 
 kartu-profil 10g ( 
 width: 150px;
-border-radius: 50px; /" Trik untuk membuat gambar persegi menjadi lingkarang 
+border-radius: 50px; /" Trik untuk membuat gambar persegi menjadi lingkaran
 ) 
